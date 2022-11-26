@@ -1,0 +1,28 @@
+{
+    "members": [
+        {
+            "name": "Mary",
+            "mail": "mary@gmail.com"
+        },
+        {
+            "name": "Jane",
+            "mail": "jane@gmail.com"
+        },
+        {
+            "name": "Adam",
+            "mail": "adam@gmail.com"
+        },
+        {
+            "name": "Zane",
+            "mail": "zane@gmail.com"
+        },
+        {
+            "name": "Mark",
+            "mail": "mark@gmail.com"
+        },
+        {
+            "name": "Adi",
+            "mail": "adi@gmail.com"
+        }
+    ]
+}
